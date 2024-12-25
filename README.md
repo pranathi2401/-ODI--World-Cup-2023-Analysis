@@ -1,0 +1,3 @@
+# ODI-World-Cup-Analytics-using-powerBI
+
+In this project, our team focused on analyzing data from the ODI World Cup 2023. We began by scraping match and player data from ESPN Cricinfo and performed thorough data cleaning and preprocessing using Python Pandas. We then transformed the data using Power Query and implemented Data Analysis Expressions (DAX) to build a comprehensive data model. Finally, we created an insightful Power BI dashboard to visualize key metrics, enabling us to extract actionable insights. These insights played a crucial role in optimizing the selection of the final playing XI for better match outcomes.
